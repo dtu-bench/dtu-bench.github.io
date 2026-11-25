@@ -1,0 +1,547 @@
+configuration,category,metric,condition,successes,valid_trials,percent
+OpenVLA,Spatial referent,Held-10,Original,415,500,83.0
+OpenVLA,Spatial referent,Held-10,Updated from start,299,500,59.8
+OpenVLA,Spatial referent,Held-10,Runtime,0,1500,0.0
+OpenVLA,Spatial referent,Final,Original,406,500,81.2
+OpenVLA,Spatial referent,Final,Updated from start,296,500,59.2
+OpenVLA,Spatial referent,Final,Runtime,0,1500,0.0
+OpenVLA,Object identity,Held-10,Original,427,500,85.4
+OpenVLA,Object identity,Held-10,Updated from start,72,500,14.4
+OpenVLA,Object identity,Held-10,Runtime,0,1500,0.0
+OpenVLA,Object identity,Final,Original,427,500,85.4
+OpenVLA,Object identity,Final,Updated from start,72,500,14.4
+OpenVLA,Object identity,Final,Runtime,0,1500,0.0
+OpenVLA,Destination,Held-10,Original,198,250,79.2
+OpenVLA,Destination,Held-10,Updated from start,196,250,78.4
+OpenVLA,Destination,Held-10,Runtime,275,750,36.7
+OpenVLA,Destination,Final,Original,192,250,76.8
+OpenVLA,Destination,Final,Updated from start,195,250,78.0
+OpenVLA,Destination,Final,Runtime,273,750,36.4
+OpenVLA,Placement relation,Held-10,Original,74,149,49.7
+OpenVLA,Placement relation,Held-10,Updated from start,1,149,0.7
+OpenVLA,Placement relation,Held-10,Runtime,7,447,1.6
+OpenVLA,Placement relation,Final,Original,36,149,24.2
+OpenVLA,Placement relation,Final,Updated from start,1,149,0.7
+OpenVLA,Placement relation,Final,Runtime,8,447,1.8
+OpenVLA,Terminal state,Held-10,Original,51,150,34.0
+OpenVLA,Terminal state,Held-10,Updated from start,26,150,17.3
+OpenVLA,Terminal state,Held-10,Runtime,146,450,32.4
+OpenVLA,Terminal state,Final,Original,51,150,34.0
+OpenVLA,Terminal state,Final,Updated from start,3,150,2.0
+OpenVLA,Terminal state,Final,Runtime,25,450,5.6
+OpenVLA,Subgoal replacement,Held-10,Original,131,200,65.5
+OpenVLA,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+OpenVLA,Subgoal replacement,Held-10,Runtime,0,600,0.0
+OpenVLA,Subgoal replacement,Final,Original,127,200,63.5
+OpenVLA,Subgoal replacement,Final,Updated from start,0,200,0.0
+OpenVLA,Subgoal replacement,Final,Runtime,0,600,0.0
+OpenVLA,Compound goal,Held-10,Original,176,250,70.4
+OpenVLA,Compound goal,Held-10,Updated from start,226,250,90.4
+OpenVLA,Compound goal,Held-10,Runtime,51,750,6.8
+OpenVLA,Compound goal,Final,Original,168,250,67.2
+OpenVLA,Compound goal,Final,Updated from start,227,250,90.8
+OpenVLA,Compound goal,Final,Runtime,51,750,6.8
+OpenVLA-OFT,Spatial referent,Held-10,Original,493,500,98.6
+OpenVLA-OFT,Spatial referent,Held-10,Updated from start,187,500,37.4
+OpenVLA-OFT,Spatial referent,Held-10,Runtime,0,1500,0.0
+OpenVLA-OFT,Spatial referent,Final,Original,482,500,96.4
+OpenVLA-OFT,Spatial referent,Final,Updated from start,180,500,36.0
+OpenVLA-OFT,Spatial referent,Final,Runtime,0,1500,0.0
+OpenVLA-OFT,Object identity,Held-10,Original,489,500,97.8
+OpenVLA-OFT,Object identity,Held-10,Updated from start,0,500,0.0
+OpenVLA-OFT,Object identity,Held-10,Runtime,0,1500,0.0
+OpenVLA-OFT,Object identity,Final,Original,490,500,98.0
+OpenVLA-OFT,Object identity,Final,Updated from start,0,500,0.0
+OpenVLA-OFT,Object identity,Final,Runtime,0,1500,0.0
+OpenVLA-OFT,Destination,Held-10,Original,240,250,96.0
+OpenVLA-OFT,Destination,Held-10,Updated from start,246,250,98.4
+OpenVLA-OFT,Destination,Held-10,Runtime,344,750,45.9
+OpenVLA-OFT,Destination,Final,Original,232,250,92.8
+OpenVLA-OFT,Destination,Final,Updated from start,238,250,95.2
+OpenVLA-OFT,Destination,Final,Runtime,340,750,45.3
+OpenVLA-OFT,Placement relation,Held-10,Original,137,149,91.9
+OpenVLA-OFT,Placement relation,Held-10,Updated from start,0,149,0.0
+OpenVLA-OFT,Placement relation,Held-10,Runtime,0,441,0.0
+OpenVLA-OFT,Placement relation,Final,Original,82,149,55.0
+OpenVLA-OFT,Placement relation,Final,Updated from start,0,149,0.0
+OpenVLA-OFT,Placement relation,Final,Runtime,0,441,0.0
+OpenVLA-OFT,Terminal state,Held-10,Original,141,150,94.0
+OpenVLA-OFT,Terminal state,Held-10,Updated from start,0,150,0.0
+OpenVLA-OFT,Terminal state,Held-10,Runtime,27,450,6.0
+OpenVLA-OFT,Terminal state,Final,Original,128,150,85.3
+OpenVLA-OFT,Terminal state,Final,Updated from start,0,150,0.0
+OpenVLA-OFT,Terminal state,Final,Runtime,14,450,3.1
+OpenVLA-OFT,Subgoal replacement,Held-10,Original,190,200,95.0
+OpenVLA-OFT,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+OpenVLA-OFT,Subgoal replacement,Held-10,Runtime,0,600,0.0
+OpenVLA-OFT,Subgoal replacement,Final,Original,181,200,90.5
+OpenVLA-OFT,Subgoal replacement,Final,Updated from start,0,200,0.0
+OpenVLA-OFT,Subgoal replacement,Final,Runtime,0,600,0.0
+OpenVLA-OFT,Compound goal,Held-10,Original,236,250,94.4
+OpenVLA-OFT,Compound goal,Held-10,Updated from start,244,250,97.6
+OpenVLA-OFT,Compound goal,Held-10,Runtime,7,750,0.9
+OpenVLA-OFT,Compound goal,Final,Original,225,250,90.0
+OpenVLA-OFT,Compound goal,Final,Updated from start,244,250,97.6
+OpenVLA-OFT,Compound goal,Final,Runtime,7,750,0.9
+π0.5,Spatial referent,Held-10,Original,497,500,99.4
+π0.5,Spatial referent,Held-10,Updated from start,294,500,58.8
+π0.5,Spatial referent,Held-10,Runtime,0,1500,0.0
+π0.5,Spatial referent,Final,Original,479,500,95.8
+π0.5,Spatial referent,Final,Updated from start,286,500,57.2
+π0.5,Spatial referent,Final,Runtime,0,1500,0.0
+π0.5,Object identity,Held-10,Original,490,500,98.0
+π0.5,Object identity,Held-10,Updated from start,108,500,21.6
+π0.5,Object identity,Held-10,Runtime,10,1500,0.7
+π0.5,Object identity,Final,Original,490,500,98.0
+π0.5,Object identity,Final,Updated from start,109,500,21.8
+π0.5,Object identity,Final,Runtime,10,1500,0.7
+π0.5,Destination,Held-10,Original,244,250,97.6
+π0.5,Destination,Held-10,Updated from start,242,250,96.8
+π0.5,Destination,Held-10,Runtime,519,750,69.2
+π0.5,Destination,Final,Original,236,250,94.4
+π0.5,Destination,Final,Updated from start,240,250,96.0
+π0.5,Destination,Final,Runtime,516,750,68.8
+π0.5,Placement relation,Held-10,Original,137,149,91.9
+π0.5,Placement relation,Held-10,Updated from start,0,149,0.0
+π0.5,Placement relation,Held-10,Runtime,0,447,0.0
+π0.5,Placement relation,Final,Original,75,149,50.3
+π0.5,Placement relation,Final,Updated from start,0,149,0.0
+π0.5,Placement relation,Final,Runtime,0,447,0.0
+π0.5,Terminal state,Held-10,Original,122,150,81.3
+π0.5,Terminal state,Held-10,Updated from start,95,150,63.3
+π0.5,Terminal state,Held-10,Runtime,283,450,62.9
+π0.5,Terminal state,Final,Original,112,150,74.7
+π0.5,Terminal state,Final,Updated from start,1,150,0.7
+π0.5,Terminal state,Final,Runtime,3,450,0.7
+π0.5,Subgoal replacement,Held-10,Original,194,200,97.0
+π0.5,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+π0.5,Subgoal replacement,Held-10,Runtime,1,600,0.2
+π0.5,Subgoal replacement,Final,Original,192,200,96.0
+π0.5,Subgoal replacement,Final,Updated from start,0,200,0.0
+π0.5,Subgoal replacement,Final,Runtime,1,600,0.2
+π0.5,Compound goal,Held-10,Original,241,250,96.4
+π0.5,Compound goal,Held-10,Updated from start,249,250,99.6
+π0.5,Compound goal,Held-10,Runtime,39,750,5.2
+π0.5,Compound goal,Final,Original,227,250,90.8
+π0.5,Compound goal,Final,Updated from start,248,250,99.2
+π0.5,Compound goal,Final,Runtime,40,750,5.3
+DM0.5,Spatial referent,Held-10,Original,495,500,99.0
+DM0.5,Spatial referent,Held-10,Updated from start,296,500,59.2
+DM0.5,Spatial referent,Held-10,Runtime,2,1500,0.1
+DM0.5,Spatial referent,Final,Original,492,500,98.4
+DM0.5,Spatial referent,Final,Updated from start,291,500,58.2
+DM0.5,Spatial referent,Final,Runtime,1,1500,0.1
+DM0.5,Object identity,Held-10,Original,499,500,99.8
+DM0.5,Object identity,Held-10,Updated from start,291,500,58.2
+DM0.5,Object identity,Held-10,Runtime,192,1500,12.8
+DM0.5,Object identity,Final,Original,499,500,99.8
+DM0.5,Object identity,Final,Updated from start,292,500,58.4
+DM0.5,Object identity,Final,Runtime,202,1500,13.5
+DM0.5,Destination,Held-10,Original,246,250,98.4
+DM0.5,Destination,Held-10,Updated from start,249,250,99.6
+DM0.5,Destination,Held-10,Runtime,430,750,57.3
+DM0.5,Destination,Final,Original,239,250,95.6
+DM0.5,Destination,Final,Updated from start,237,250,94.8
+DM0.5,Destination,Final,Runtime,429,750,57.2
+DM0.5,Placement relation,Held-10,Original,141,149,94.6
+DM0.5,Placement relation,Held-10,Updated from start,1,149,0.7
+DM0.5,Placement relation,Held-10,Runtime,5,447,1.1
+DM0.5,Placement relation,Final,Original,59,149,39.6
+DM0.5,Placement relation,Final,Updated from start,1,149,0.7
+DM0.5,Placement relation,Final,Runtime,5,447,1.1
+DM0.5,Terminal state,Held-10,Original,142,150,94.7
+DM0.5,Terminal state,Held-10,Updated from start,100,150,66.7
+DM0.5,Terminal state,Held-10,Runtime,292,450,64.9
+DM0.5,Terminal state,Final,Original,135,150,90.0
+DM0.5,Terminal state,Final,Updated from start,0,150,0.0
+DM0.5,Terminal state,Final,Runtime,1,450,0.2
+DM0.5,Subgoal replacement,Held-10,Original,198,200,99.0
+DM0.5,Subgoal replacement,Held-10,Updated from start,1,200,0.5
+DM0.5,Subgoal replacement,Held-10,Runtime,1,600,0.2
+DM0.5,Subgoal replacement,Final,Original,196,200,98.0
+DM0.5,Subgoal replacement,Final,Updated from start,1,200,0.5
+DM0.5,Subgoal replacement,Final,Runtime,1,600,0.2
+DM0.5,Compound goal,Held-10,Original,248,250,99.2
+DM0.5,Compound goal,Held-10,Updated from start,245,250,98.0
+DM0.5,Compound goal,Held-10,Runtime,120,750,16.0
+DM0.5,Compound goal,Final,Original,230,250,92.0
+DM0.5,Compound goal,Final,Updated from start,245,250,98.0
+DM0.5,Compound goal,Final,Runtime,131,750,17.5
+π0,Spatial referent,Held-10,Original,480,500,96.0
+π0,Spatial referent,Held-10,Updated from start,371,500,74.2
+π0,Spatial referent,Held-10,Runtime,7,1500,0.5
+π0,Spatial referent,Final,Original,472,500,94.4
+π0,Spatial referent,Final,Updated from start,367,500,73.4
+π0,Spatial referent,Final,Runtime,7,1500,0.5
+π0,Object identity,Held-10,Original,488,500,97.6
+π0,Object identity,Held-10,Updated from start,97,500,19.4
+π0,Object identity,Held-10,Runtime,0,1500,0.0
+π0,Object identity,Final,Original,488,500,97.6
+π0,Object identity,Final,Updated from start,97,500,19.4
+π0,Object identity,Final,Runtime,0,1500,0.0
+π0,Destination,Held-10,Original,229,250,91.6
+π0,Destination,Held-10,Updated from start,217,250,86.8
+π0,Destination,Held-10,Runtime,432,750,57.6
+π0,Destination,Final,Original,212,250,84.8
+π0,Destination,Final,Updated from start,207,250,82.8
+π0,Destination,Final,Runtime,428,750,57.1
+π0,Placement relation,Held-10,Original,126,149,84.6
+π0,Placement relation,Held-10,Updated from start,1,149,0.7
+π0,Placement relation,Held-10,Runtime,0,447,0.0
+π0,Placement relation,Final,Original,89,149,59.7
+π0,Placement relation,Final,Updated from start,1,149,0.7
+π0,Placement relation,Final,Runtime,0,447,0.0
+π0,Terminal state,Held-10,Original,97,150,64.7
+π0,Terminal state,Held-10,Updated from start,90,150,60.0
+π0,Terminal state,Held-10,Runtime,282,450,62.7
+π0,Terminal state,Final,Original,93,150,62.0
+π0,Terminal state,Final,Updated from start,3,150,2.0
+π0,Terminal state,Final,Runtime,6,450,1.3
+π0,Subgoal replacement,Held-10,Original,170,200,85.0
+π0,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+π0,Subgoal replacement,Held-10,Runtime,0,600,0.0
+π0,Subgoal replacement,Final,Original,141,200,70.5
+π0,Subgoal replacement,Final,Updated from start,0,200,0.0
+π0,Subgoal replacement,Final,Runtime,0,600,0.0
+π0,Compound goal,Held-10,Original,237,250,94.8
+π0,Compound goal,Held-10,Updated from start,245,250,98.0
+π0,Compound goal,Held-10,Runtime,171,750,22.8
+π0,Compound goal,Final,Original,224,250,89.6
+π0,Compound goal,Final,Updated from start,237,250,94.8
+π0,Compound goal,Final,Runtime,142,750,18.9
+RynnVLA-002 cont.,Spatial referent,Held-10,Original,494,500,98.8
+RynnVLA-002 cont.,Spatial referent,Held-10,Updated from start,382,500,76.4
+RynnVLA-002 cont.,Spatial referent,Held-10,Runtime,0,1500,0.0
+RynnVLA-002 cont.,Spatial referent,Final,Original,451,500,90.2
+RynnVLA-002 cont.,Spatial referent,Final,Updated from start,365,500,73.0
+RynnVLA-002 cont.,Spatial referent,Final,Runtime,0,1500,0.0
+RynnVLA-002 cont.,Object identity,Held-10,Original,474,500,94.8
+RynnVLA-002 cont.,Object identity,Held-10,Updated from start,97,500,19.4
+RynnVLA-002 cont.,Object identity,Held-10,Runtime,1,1500,0.1
+RynnVLA-002 cont.,Object identity,Final,Original,474,500,94.8
+RynnVLA-002 cont.,Object identity,Final,Updated from start,97,500,19.4
+RynnVLA-002 cont.,Object identity,Final,Runtime,1,1500,0.1
+RynnVLA-002 cont.,Destination,Held-10,Original,236,250,94.4
+RynnVLA-002 cont.,Destination,Held-10,Updated from start,239,250,95.6
+RynnVLA-002 cont.,Destination,Held-10,Runtime,326,750,43.5
+RynnVLA-002 cont.,Destination,Final,Original,229,250,91.6
+RynnVLA-002 cont.,Destination,Final,Updated from start,235,250,94.0
+RynnVLA-002 cont.,Destination,Final,Runtime,321,750,42.8
+RynnVLA-002 cont.,Placement relation,Held-10,Original,130,150,86.7
+RynnVLA-002 cont.,Placement relation,Held-10,Updated from start,0,150,0.0
+RynnVLA-002 cont.,Placement relation,Held-10,Runtime,0,450,0.0
+RynnVLA-002 cont.,Placement relation,Final,Original,92,150,61.3
+RynnVLA-002 cont.,Placement relation,Final,Updated from start,0,150,0.0
+RynnVLA-002 cont.,Placement relation,Final,Runtime,0,450,0.0
+RynnVLA-002 cont.,Terminal state,Held-10,Original,136,150,90.7
+RynnVLA-002 cont.,Terminal state,Held-10,Updated from start,95,150,63.3
+RynnVLA-002 cont.,Terminal state,Held-10,Runtime,281,450,62.4
+RynnVLA-002 cont.,Terminal state,Final,Original,114,150,76.0
+RynnVLA-002 cont.,Terminal state,Final,Updated from start,0,150,0.0
+RynnVLA-002 cont.,Terminal state,Final,Runtime,3,450,0.7
+RynnVLA-002 cont.,Subgoal replacement,Held-10,Original,191,200,95.5
+RynnVLA-002 cont.,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+RynnVLA-002 cont.,Subgoal replacement,Held-10,Runtime,0,600,0.0
+RynnVLA-002 cont.,Subgoal replacement,Final,Original,189,200,94.5
+RynnVLA-002 cont.,Subgoal replacement,Final,Updated from start,0,200,0.0
+RynnVLA-002 cont.,Subgoal replacement,Final,Runtime,0,600,0.0
+RynnVLA-002 cont.,Compound goal,Held-10,Original,242,250,96.8
+RynnVLA-002 cont.,Compound goal,Held-10,Updated from start,243,250,97.2
+RynnVLA-002 cont.,Compound goal,Held-10,Runtime,19,750,2.5
+RynnVLA-002 cont.,Compound goal,Final,Original,195,250,78.0
+RynnVLA-002 cont.,Compound goal,Final,Updated from start,243,250,97.2
+RynnVLA-002 cont.,Compound goal,Final,Runtime,17,750,2.3
+VLA-JEPA,Spatial referent,Held-10,Original,482,500,96.4
+VLA-JEPA,Spatial referent,Held-10,Updated from start,286,500,57.2
+VLA-JEPA,Spatial referent,Held-10,Runtime,0,1500,0.0
+VLA-JEPA,Spatial referent,Final,Original,482,500,96.4
+VLA-JEPA,Spatial referent,Final,Updated from start,286,500,57.2
+VLA-JEPA,Spatial referent,Final,Runtime,0,1500,0.0
+VLA-JEPA,Object identity,Held-10,Original,499,500,99.8
+VLA-JEPA,Object identity,Held-10,Updated from start,94,500,18.8
+VLA-JEPA,Object identity,Held-10,Runtime,0,1500,0.0
+VLA-JEPA,Object identity,Final,Original,499,500,99.8
+VLA-JEPA,Object identity,Final,Updated from start,94,500,18.8
+VLA-JEPA,Object identity,Final,Runtime,0,1500,0.0
+VLA-JEPA,Destination,Held-10,Original,245,250,98.0
+VLA-JEPA,Destination,Held-10,Updated from start,247,250,98.8
+VLA-JEPA,Destination,Held-10,Runtime,440,750,58.7
+VLA-JEPA,Destination,Final,Original,245,250,98.0
+VLA-JEPA,Destination,Final,Updated from start,247,250,98.8
+VLA-JEPA,Destination,Final,Runtime,430,750,57.3
+VLA-JEPA,Placement relation,Held-10,Original,144,149,96.6
+VLA-JEPA,Placement relation,Held-10,Updated from start,0,149,0.0
+VLA-JEPA,Placement relation,Held-10,Runtime,0,447,0.0
+VLA-JEPA,Placement relation,Final,Original,134,149,89.9
+VLA-JEPA,Placement relation,Final,Updated from start,0,149,0.0
+VLA-JEPA,Placement relation,Final,Runtime,0,447,0.0
+VLA-JEPA,Terminal state,Held-10,Original,131,150,87.3
+VLA-JEPA,Terminal state,Held-10,Updated from start,96,150,64.0
+VLA-JEPA,Terminal state,Held-10,Runtime,285,450,63.3
+VLA-JEPA,Terminal state,Final,Original,124,150,82.7
+VLA-JEPA,Terminal state,Final,Updated from start,0,150,0.0
+VLA-JEPA,Terminal state,Final,Runtime,2,450,0.4
+VLA-JEPA,Subgoal replacement,Held-10,Original,195,200,97.5
+VLA-JEPA,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+VLA-JEPA,Subgoal replacement,Held-10,Runtime,0,600,0.0
+VLA-JEPA,Subgoal replacement,Final,Original,195,200,97.5
+VLA-JEPA,Subgoal replacement,Final,Updated from start,0,200,0.0
+VLA-JEPA,Subgoal replacement,Final,Runtime,0,600,0.0
+VLA-JEPA,Compound goal,Held-10,Original,233,250,93.2
+VLA-JEPA,Compound goal,Held-10,Updated from start,246,250,98.4
+VLA-JEPA,Compound goal,Held-10,Runtime,116,750,15.5
+VLA-JEPA,Compound goal,Final,Original,230,250,92.0
+VLA-JEPA,Compound goal,Final,Updated from start,246,250,98.4
+VLA-JEPA,Compound goal,Final,Runtime,117,750,15.6
+InstructVLA stage-1,Spatial referent,Held-10,Original,476,500,95.2
+InstructVLA stage-1,Spatial referent,Held-10,Updated from start,349,500,69.8
+InstructVLA stage-1,Spatial referent,Held-10,Runtime,0,1500,0.0
+InstructVLA stage-1,Spatial referent,Final,Original,473,500,94.6
+InstructVLA stage-1,Spatial referent,Final,Updated from start,349,500,69.8
+InstructVLA stage-1,Spatial referent,Final,Runtime,0,1500,0.0
+InstructVLA stage-1,Object identity,Held-10,Original,496,500,99.2
+InstructVLA stage-1,Object identity,Held-10,Updated from start,94,500,18.8
+InstructVLA stage-1,Object identity,Held-10,Runtime,1,1500,0.1
+InstructVLA stage-1,Object identity,Final,Original,496,500,99.2
+InstructVLA stage-1,Object identity,Final,Updated from start,94,500,18.8
+InstructVLA stage-1,Object identity,Final,Runtime,2,1500,0.1
+InstructVLA stage-1,Destination,Held-10,Original,244,250,97.6
+InstructVLA stage-1,Destination,Held-10,Updated from start,246,250,98.4
+InstructVLA stage-1,Destination,Held-10,Runtime,401,750,53.5
+InstructVLA stage-1,Destination,Final,Original,244,250,97.6
+InstructVLA stage-1,Destination,Final,Updated from start,246,250,98.4
+InstructVLA stage-1,Destination,Final,Runtime,401,750,53.5
+InstructVLA stage-1,Placement relation,Held-10,Original,123,149,82.6
+InstructVLA stage-1,Placement relation,Held-10,Updated from start,0,148,0.0
+InstructVLA stage-1,Placement relation,Held-10,Runtime,0,447,0.0
+InstructVLA stage-1,Placement relation,Final,Original,105,149,70.5
+InstructVLA stage-1,Placement relation,Final,Updated from start,0,148,0.0
+InstructVLA stage-1,Placement relation,Final,Runtime,0,447,0.0
+InstructVLA stage-1,Terminal state,Held-10,Original,124,150,82.7
+InstructVLA stage-1,Terminal state,Held-10,Updated from start,92,150,61.3
+InstructVLA stage-1,Terminal state,Held-10,Runtime,276,450,61.3
+InstructVLA stage-1,Terminal state,Final,Original,120,150,80.0
+InstructVLA stage-1,Terminal state,Final,Updated from start,0,150,0.0
+InstructVLA stage-1,Terminal state,Final,Runtime,7,450,1.6
+InstructVLA stage-1,Subgoal replacement,Held-10,Original,182,200,91.0
+InstructVLA stage-1,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+InstructVLA stage-1,Subgoal replacement,Held-10,Runtime,0,600,0.0
+InstructVLA stage-1,Subgoal replacement,Final,Original,177,200,88.5
+InstructVLA stage-1,Subgoal replacement,Final,Updated from start,0,200,0.0
+InstructVLA stage-1,Subgoal replacement,Final,Runtime,0,600,0.0
+InstructVLA stage-1,Compound goal,Held-10,Original,233,250,93.2
+InstructVLA stage-1,Compound goal,Held-10,Updated from start,247,250,98.8
+InstructVLA stage-1,Compound goal,Held-10,Runtime,20,750,2.7
+InstructVLA stage-1,Compound goal,Final,Original,228,250,91.2
+InstructVLA stage-1,Compound goal,Final,Updated from start,247,250,98.8
+InstructVLA stage-1,Compound goal,Final,Runtime,20,750,2.7
+τ0-VLA low-level,Spatial referent,Held-10,Original,493,500,98.6
+τ0-VLA low-level,Spatial referent,Held-10,Updated from start,352,500,70.4
+τ0-VLA low-level,Spatial referent,Held-10,Runtime,2,1500,0.1
+τ0-VLA low-level,Spatial referent,Final,Original,485,500,97.0
+τ0-VLA low-level,Spatial referent,Final,Updated from start,345,500,69.0
+τ0-VLA low-level,Spatial referent,Final,Runtime,2,1500,0.1
+τ0-VLA low-level,Object identity,Held-10,Original,496,500,99.2
+τ0-VLA low-level,Object identity,Held-10,Updated from start,96,500,19.2
+τ0-VLA low-level,Object identity,Held-10,Runtime,2,1500,0.1
+τ0-VLA low-level,Object identity,Final,Original,496,500,99.2
+τ0-VLA low-level,Object identity,Final,Updated from start,96,500,19.2
+τ0-VLA low-level,Object identity,Final,Runtime,2,1500,0.1
+τ0-VLA low-level,Destination,Held-10,Original,248,250,99.2
+τ0-VLA low-level,Destination,Held-10,Updated from start,244,250,97.6
+τ0-VLA low-level,Destination,Held-10,Runtime,421,750,56.1
+τ0-VLA low-level,Destination,Final,Original,239,250,95.6
+τ0-VLA low-level,Destination,Final,Updated from start,231,250,92.4
+τ0-VLA low-level,Destination,Final,Runtime,405,750,54.0
+τ0-VLA low-level,Placement relation,Held-10,Original,137,149,91.9
+τ0-VLA low-level,Placement relation,Held-10,Updated from start,0,149,0.0
+τ0-VLA low-level,Placement relation,Held-10,Runtime,0,447,0.0
+τ0-VLA low-level,Placement relation,Final,Original,64,149,43.0
+τ0-VLA low-level,Placement relation,Final,Updated from start,0,149,0.0
+τ0-VLA low-level,Placement relation,Final,Runtime,0,447,0.0
+τ0-VLA low-level,Terminal state,Held-10,Original,142,150,94.7
+τ0-VLA low-level,Terminal state,Held-10,Updated from start,96,150,64.0
+τ0-VLA low-level,Terminal state,Held-10,Runtime,282,450,62.7
+τ0-VLA low-level,Terminal state,Final,Original,136,150,90.7
+τ0-VLA low-level,Terminal state,Final,Updated from start,0,150,0.0
+τ0-VLA low-level,Terminal state,Final,Runtime,0,450,0.0
+τ0-VLA low-level,Subgoal replacement,Held-10,Original,193,200,96.5
+τ0-VLA low-level,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+τ0-VLA low-level,Subgoal replacement,Held-10,Runtime,0,600,0.0
+τ0-VLA low-level,Subgoal replacement,Final,Original,179,200,89.5
+τ0-VLA low-level,Subgoal replacement,Final,Updated from start,0,200,0.0
+τ0-VLA low-level,Subgoal replacement,Final,Runtime,0,600,0.0
+τ0-VLA low-level,Compound goal,Held-10,Original,241,250,96.4
+τ0-VLA low-level,Compound goal,Held-10,Updated from start,249,250,99.6
+τ0-VLA low-level,Compound goal,Held-10,Runtime,66,750,8.8
+τ0-VLA low-level,Compound goal,Final,Original,219,250,87.6
+τ0-VLA low-level,Compound goal,Final,Updated from start,245,250,98.0
+τ0-VLA low-level,Compound goal,Final,Runtime,59,750,7.9
+MolmoAct2 cont.,Spatial referent,Held-10,Original,492,500,98.4
+MolmoAct2 cont.,Spatial referent,Held-10,Updated from start,298,500,59.6
+MolmoAct2 cont.,Spatial referent,Held-10,Runtime,1,1500,0.1
+MolmoAct2 cont.,Spatial referent,Final,Original,485,500,97.0
+MolmoAct2 cont.,Spatial referent,Final,Updated from start,297,500,59.4
+MolmoAct2 cont.,Spatial referent,Final,Runtime,1,1500,0.1
+MolmoAct2 cont.,Object identity,Held-10,Original,495,500,99.0
+MolmoAct2 cont.,Object identity,Held-10,Updated from start,165,500,33.0
+MolmoAct2 cont.,Object identity,Held-10,Runtime,65,1500,4.3
+MolmoAct2 cont.,Object identity,Final,Original,495,500,99.0
+MolmoAct2 cont.,Object identity,Final,Updated from start,169,500,33.8
+MolmoAct2 cont.,Object identity,Final,Runtime,74,1500,4.9
+MolmoAct2 cont.,Destination,Held-10,Original,245,250,98.0
+MolmoAct2 cont.,Destination,Held-10,Updated from start,248,250,99.2
+MolmoAct2 cont.,Destination,Held-10,Runtime,437,750,58.3
+MolmoAct2 cont.,Destination,Final,Original,243,250,97.2
+MolmoAct2 cont.,Destination,Final,Updated from start,246,250,98.4
+MolmoAct2 cont.,Destination,Final,Runtime,436,750,58.1
+MolmoAct2 cont.,Placement relation,Held-10,Original,134,149,89.9
+MolmoAct2 cont.,Placement relation,Held-10,Updated from start,5,149,3.4
+MolmoAct2 cont.,Placement relation,Held-10,Runtime,4,447,0.9
+MolmoAct2 cont.,Placement relation,Final,Original,71,149,47.7
+MolmoAct2 cont.,Placement relation,Final,Updated from start,2,149,1.3
+MolmoAct2 cont.,Placement relation,Final,Runtime,7,447,1.6
+MolmoAct2 cont.,Terminal state,Held-10,Original,127,150,84.7
+MolmoAct2 cont.,Terminal state,Held-10,Updated from start,99,150,66.0
+MolmoAct2 cont.,Terminal state,Held-10,Runtime,292,450,64.9
+MolmoAct2 cont.,Terminal state,Final,Original,112,150,74.7
+MolmoAct2 cont.,Terminal state,Final,Updated from start,2,150,1.3
+MolmoAct2 cont.,Terminal state,Final,Runtime,4,450,0.9
+MolmoAct2 cont.,Subgoal replacement,Held-10,Original,196,200,98.0
+MolmoAct2 cont.,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+MolmoAct2 cont.,Subgoal replacement,Held-10,Runtime,0,600,0.0
+MolmoAct2 cont.,Subgoal replacement,Final,Original,190,200,95.0
+MolmoAct2 cont.,Subgoal replacement,Final,Updated from start,0,200,0.0
+MolmoAct2 cont.,Subgoal replacement,Final,Runtime,0,600,0.0
+MolmoAct2 cont.,Compound goal,Held-10,Original,243,250,97.2
+MolmoAct2 cont.,Compound goal,Held-10,Updated from start,246,250,98.4
+MolmoAct2 cont.,Compound goal,Held-10,Runtime,151,750,20.1
+MolmoAct2 cont.,Compound goal,Final,Original,232,250,92.8
+MolmoAct2 cont.,Compound goal,Final,Updated from start,246,250,98.4
+MolmoAct2 cont.,Compound goal,Final,Runtime,146,750,19.5
+FlashVLA-π0.5 sync.,Spatial referent,Held-10,Original,488,500,97.6
+FlashVLA-π0.5 sync.,Spatial referent,Held-10,Updated from start,290,500,58.0
+FlashVLA-π0.5 sync.,Spatial referent,Held-10,Runtime,4,1500,0.3
+FlashVLA-π0.5 sync.,Spatial referent,Final,Original,486,500,97.2
+FlashVLA-π0.5 sync.,Spatial referent,Final,Updated from start,286,500,57.2
+FlashVLA-π0.5 sync.,Spatial referent,Final,Runtime,4,1500,0.3
+FlashVLA-π0.5 sync.,Object identity,Held-10,Original,495,500,99.0
+FlashVLA-π0.5 sync.,Object identity,Held-10,Updated from start,206,500,41.2
+FlashVLA-π0.5 sync.,Object identity,Held-10,Runtime,19,1500,1.3
+FlashVLA-π0.5 sync.,Object identity,Final,Original,495,500,99.0
+FlashVLA-π0.5 sync.,Object identity,Final,Updated from start,209,500,41.8
+FlashVLA-π0.5 sync.,Object identity,Final,Runtime,20,1500,1.3
+FlashVLA-π0.5 sync.,Destination,Held-10,Original,242,250,96.8
+FlashVLA-π0.5 sync.,Destination,Held-10,Updated from start,246,250,98.4
+FlashVLA-π0.5 sync.,Destination,Held-10,Runtime,435,750,58.0
+FlashVLA-π0.5 sync.,Destination,Final,Original,235,250,94.0
+FlashVLA-π0.5 sync.,Destination,Final,Updated from start,241,250,96.4
+FlashVLA-π0.5 sync.,Destination,Final,Runtime,432,750,57.6
+FlashVLA-π0.5 sync.,Placement relation,Held-10,Original,143,149,96.0
+FlashVLA-π0.5 sync.,Placement relation,Held-10,Updated from start,0,149,0.0
+FlashVLA-π0.5 sync.,Placement relation,Held-10,Runtime,0,447,0.0
+FlashVLA-π0.5 sync.,Placement relation,Final,Original,89,149,59.7
+FlashVLA-π0.5 sync.,Placement relation,Final,Updated from start,0,149,0.0
+FlashVLA-π0.5 sync.,Placement relation,Final,Runtime,0,447,0.0
+FlashVLA-π0.5 sync.,Terminal state,Held-10,Original,131,150,87.3
+FlashVLA-π0.5 sync.,Terminal state,Held-10,Updated from start,98,150,65.3
+FlashVLA-π0.5 sync.,Terminal state,Held-10,Runtime,288,450,64.0
+FlashVLA-π0.5 sync.,Terminal state,Final,Original,125,150,83.3
+FlashVLA-π0.5 sync.,Terminal state,Final,Updated from start,0,150,0.0
+FlashVLA-π0.5 sync.,Terminal state,Final,Runtime,0,450,0.0
+FlashVLA-π0.5 sync.,Subgoal replacement,Held-10,Original,197,200,98.5
+FlashVLA-π0.5 sync.,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+FlashVLA-π0.5 sync.,Subgoal replacement,Held-10,Runtime,10,600,1.7
+FlashVLA-π0.5 sync.,Subgoal replacement,Final,Original,196,200,98.0
+FlashVLA-π0.5 sync.,Subgoal replacement,Final,Updated from start,0,200,0.0
+FlashVLA-π0.5 sync.,Subgoal replacement,Final,Runtime,10,600,1.7
+FlashVLA-π0.5 sync.,Compound goal,Held-10,Original,245,250,98.0
+FlashVLA-π0.5 sync.,Compound goal,Held-10,Updated from start,232,250,92.8
+FlashVLA-π0.5 sync.,Compound goal,Held-10,Runtime,140,750,18.7
+FlashVLA-π0.5 sync.,Compound goal,Final,Original,229,250,91.6
+FlashVLA-π0.5 sync.,Compound goal,Final,Updated from start,230,250,92.0
+FlashVLA-π0.5 sync.,Compound goal,Final,Runtime,142,750,18.9
+WorldVLA,Spatial referent,Held-10,Original,416,498,83.5
+WorldVLA,Spatial referent,Held-10,Updated from start,391,496,78.8
+WorldVLA,Spatial referent,Held-10,Runtime,27,1463,1.8
+WorldVLA,Spatial referent,Final,Original,348,498,69.9
+WorldVLA,Spatial referent,Final,Updated from start,343,496,69.2
+WorldVLA,Spatial referent,Final,Runtime,17,1463,1.2
+WorldVLA,Object identity,Held-10,Original,395,498,79.3
+WorldVLA,Object identity,Held-10,Updated from start,83,495,16.8
+WorldVLA,Object identity,Held-10,Runtime,9,1486,0.6
+WorldVLA,Object identity,Final,Original,395,498,79.3
+WorldVLA,Object identity,Final,Updated from start,83,495,16.8
+WorldVLA,Object identity,Final,Runtime,9,1486,0.6
+WorldVLA,Destination,Held-10,Original,201,250,80.4
+WorldVLA,Destination,Held-10,Updated from start,207,250,82.8
+WorldVLA,Destination,Held-10,Runtime,302,749,40.3
+WorldVLA,Destination,Final,Original,196,250,78.4
+WorldVLA,Destination,Final,Updated from start,200,250,80.0
+WorldVLA,Destination,Final,Runtime,289,749,38.6
+WorldVLA,Placement relation,Held-10,Original,95,148,64.2
+WorldVLA,Placement relation,Held-10,Updated from start,0,148,0.0
+WorldVLA,Placement relation,Held-10,Runtime,0,445,0.0
+WorldVLA,Placement relation,Final,Original,43,148,29.1
+WorldVLA,Placement relation,Final,Updated from start,0,148,0.0
+WorldVLA,Placement relation,Final,Runtime,0,445,0.0
+WorldVLA,Terminal state,Held-10,Original,51,148,34.5
+WorldVLA,Terminal state,Held-10,Updated from start,68,149,45.6
+WorldVLA,Terminal state,Held-10,Runtime,205,438,46.8
+WorldVLA,Terminal state,Final,Original,46,148,31.1
+WorldVLA,Terminal state,Final,Updated from start,0,149,0.0
+WorldVLA,Terminal state,Final,Runtime,5,438,1.1
+WorldVLA,Subgoal replacement,Held-10,Original,100,200,50.0
+WorldVLA,Subgoal replacement,Held-10,Updated from start,0,200,0.0
+WorldVLA,Subgoal replacement,Held-10,Runtime,0,600,0.0
+WorldVLA,Subgoal replacement,Final,Original,89,200,44.5
+WorldVLA,Subgoal replacement,Final,Updated from start,0,200,0.0
+WorldVLA,Subgoal replacement,Final,Runtime,0,600,0.0
+WorldVLA,Compound goal,Held-10,Original,189,249,75.9
+WorldVLA,Compound goal,Held-10,Updated from start,218,250,87.2
+WorldVLA,Compound goal,Held-10,Runtime,29,745,3.9
+WorldVLA,Compound goal,Final,Original,169,249,67.9
+WorldVLA,Compound goal,Final,Updated from start,218,250,87.2
+WorldVLA,Compound goal,Final,Runtime,29,745,3.9
+UniVLA,Spatial referent,Held-10,Original,486,500,97.2
+UniVLA,Spatial referent,Held-10,Updated from start,111,500,22.2
+UniVLA,Spatial referent,Held-10,Runtime,0,1500,0.0
+UniVLA,Spatial referent,Final,Original,456,500,91.2
+UniVLA,Spatial referent,Final,Updated from start,101,500,20.2
+UniVLA,Spatial referent,Final,Runtime,0,1500,0.0
+UniVLA,Object identity,Held-10,Original,474,500,94.8
+UniVLA,Object identity,Held-10,Updated from start,20,500,4.0
+UniVLA,Object identity,Held-10,Runtime,0,1500,0.0
+UniVLA,Object identity,Final,Original,473,500,94.6
+UniVLA,Object identity,Final,Updated from start,20,500,4.0
+UniVLA,Object identity,Final,Runtime,0,1500,0.0
+UniVLA,Destination,Held-10,Original,219,250,87.6
+UniVLA,Destination,Held-10,Updated from start,238,250,95.2
+UniVLA,Destination,Held-10,Runtime,445,750,59.3
+UniVLA,Destination,Final,Original,166,250,66.4
+UniVLA,Destination,Final,Updated from start,170,250,68.0
+UniVLA,Destination,Final,Runtime,305,750,40.7
+UniVLA,Placement relation,Held-10,Original,116,148,78.4
+UniVLA,Placement relation,Held-10,Updated from start,0,149,0.0
+UniVLA,Placement relation,Held-10,Runtime,0,447,0.0
+UniVLA,Placement relation,Final,Original,55,148,37.2
+UniVLA,Placement relation,Final,Updated from start,0,149,0.0
+UniVLA,Placement relation,Final,Runtime,0,447,0.0
+UniVLA,Terminal state,Held-10,Original,131,150,87.3
+UniVLA,Terminal state,Held-10,Updated from start,96,150,64.0
+UniVLA,Terminal state,Held-10,Runtime,286,450,63.6
+UniVLA,Terminal state,Final,Original,118,150,78.7
+UniVLA,Terminal state,Final,Updated from start,3,150,2.0
+UniVLA,Terminal state,Final,Runtime,16,450,3.6
+UniVLA,Subgoal replacement,Held-10,Original,189,200,94.5
+UniVLA,Subgoal replacement,Held-10,Updated from start,0,198,0.0
+UniVLA,Subgoal replacement,Held-10,Runtime,0,598,0.0
+UniVLA,Subgoal replacement,Final,Original,188,200,94.0
+UniVLA,Subgoal replacement,Final,Updated from start,0,198,0.0
+UniVLA,Subgoal replacement,Final,Runtime,0,598,0.0
+UniVLA,Compound goal,Held-10,Original,229,250,91.6
+UniVLA,Compound goal,Held-10,Updated from start,228,250,91.2
+UniVLA,Compound goal,Held-10,Runtime,40,750,5.3
+UniVLA,Compound goal,Final,Original,204,250,81.6
+UniVLA,Compound goal,Final,Updated from start,160,250,64.0
+UniVLA,Compound goal,Final,Runtime,38,750,5.1
